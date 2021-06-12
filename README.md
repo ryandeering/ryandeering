@@ -2,7 +2,7 @@
 
 I'm Ryan. I'm a 22 year old software developer from Ireland.
 
-I'm looking to graduate with a 1.1 in my Hons. Bachelors in Computing with Software Development from Technological University Dublin this year.
+I am graduating with a 1.1 in my Hons. Bachelors in Computing with Software Development from Technological University Dublin this year.
 
 #### Technologies I like and have experience with: 
 
