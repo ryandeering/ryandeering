@@ -35,7 +35,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 10
           plugin_languages_threshold: 0%
-          plugin_languages_ignored: jupyternotebook, xslt  
+          plugin_languages_ignored: Jupyter Notebook, xslt 
           plugin_lines: yes
           plugin_topics: no
 
