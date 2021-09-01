@@ -35,10 +35,27 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_topics: no
+
+
+
+      - name: 🦑 Right metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: ryandeering
+          template: classic
+          base: ""
+          config_timezone: Europe/Dublin
+          filename: metrics.right.svg
+
           plugin_achievements: yes
           plugin_achievements_limit: 6
           plugin_achievements_secrets: yes
-          plugin_lines: yes
-          plugin_topics: no
-          plugin_traffic: yes
+          plugin_achievements_threshold: C
           repositories_forks: yes
+          plugin_traffic: yes
