@@ -19,9 +19,10 @@ I am graduating with a 1.1 in my Hons. Bachelors in Computing with Software Deve
 [![](http://img.shields.io/badge/-LinkedIn-5aa5a2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryandeering)
 [![](http://img.shields.io/badge/-Email-5aa5a2?logo=gmail&logoColor=white)](mailto:ryandeering1@gmail.com)
 
-
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/ryandeering/ryandeering/blob/main/metrics.left.svg)
+<p align="center">
+    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/ryandeering/ryandeering/blob/main/metrics.left.svg" /></a>
+    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/ryandeering/ryandeering/blob/main/metrics.right.svg" /></a>
+</p>
 
 
 <!--
