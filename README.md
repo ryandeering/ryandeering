@@ -21,7 +21,7 @@ I am graduating with a 1.1 in my Hons. Bachelors in Computing with Software Deve
 
 
 <!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/ryandeering/ryandeering/blob/main/github-metrics.svg)
+![Metrics](https://github.com/ryandeering/ryandeering/blob/main/metrics.left.svg)
 
 
 <!--
