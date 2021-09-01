@@ -14,6 +14,8 @@ I am graduating with a 1.1 in my Hons. Bachelors in Computing with Software Deve
 ![](https://img.shields.io/badge/-Linux-5aa5a2?logo=Linux&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-Azure-5aa5a2?logo=Microsoft%20Azure&logoColor=white&style=flat)
 
+#### [Curriculum Vitae](https://docs.google.com/viewerng/viewer?url=https://github.com/ryandeering/cv/releases/latest/download/cv.pdf) 
+
 #### Need to contact me?
 
 [![](http://img.shields.io/badge/-LinkedIn-5aa5a2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryandeering)
