@@ -21,7 +21,7 @@ I am graduating with a 1.1 in my Hons. Bachelors in Computing with Software Deve
 
 <p align="center">
     <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/ryandeering/ryandeering/blob/main/metrics.left.svg" /></a>
-    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/ryandeering/ryandeering/blob/main/metrics.right.svg" /></a>
+    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" img align='top'    src="https://github.com/ryandeering/ryandeering/blob/main/metrics.right.svg" /></a>
 </p>
 
 
