@@ -1,8 +1,6 @@
 ### Hello!
 
-I'm Ryan. I'm a 23 year old software developer from Ireland.
-
-I am graduating with a 1.1 in my Hons. Bachelors in Computing with Software Development from Technological University Dublin this year.
+I'm Ryan. I'm a 23 year old software developer from Ireland. I work as a Graduate .NET Developer for Retail inMotion. I graduated with First Class Honours in Computing with Software Development from Technological University Dublin in 2021.
 
 #### Technologies I like and have experience with: 
 
