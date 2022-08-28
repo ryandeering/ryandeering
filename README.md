@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Ryan. I'm a 23 year old software developer from Ireland. I work as a Junior .NET Developer for Retail inMotion. I graduated with First Class Honours in Computing with Software Development from Technological University Dublin in 2021.
+I'm Ryan. I'm a 24 year old software developer from Ireland. I work as a Junior Full Stack Developer at Circit. I graduated with First Class Honours in Computing with Software Development from Technological University Dublin in 2021.
 
 #### Technologies I like and have experience with: 
 
