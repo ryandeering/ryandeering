@@ -19,6 +19,8 @@ I'm Ryan, I'm a software developer from Dublin, Ireland. I work as a Full Stack 
 [![](http://img.shields.io/badge/-LinkedIn-5aa5a2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryandeering)
 [![](http://img.shields.io/badge/-Email-5aa5a2?logo=gmail&logoColor=white)](mailto:ryandeering1@gmail.com)
 
+[Fancy buying me a beverage?](https://ko-fi.com/ryandeering)
+
 <p align="center">
     <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/ryandeering/ryandeering/blob/main/metrics.left.svg" /></a>
     <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" img align='top' src="https://github.com/ryandeering/ryandeering/blob/main/metrics.right.svg" /></a>
