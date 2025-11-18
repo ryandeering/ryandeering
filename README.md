@@ -4,40 +4,20 @@ I'm Ryan, I'm a software developer from Dublin, Ireland. I work as a Full Stack 
 
 #### Technologies I like and have experience with: 
 
-
-![](https://img.shields.io/badge/-.NET-5aa5a2?logo=.NET&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Blazor-5aa5a2?logo=blazor&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Java-5aa5a2?logo=Java&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Docker-5aa5a2?logo=Docker&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Linux-5aa5a2?logo=Linux&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Azure-5aa5a2?logo=Microsoft%20Azure&logoColor=white&style=flat)
-
-#### [Curriculum Vitae](https://docs.google.com/viewerng/viewer?url=https://github.com/ryandeering/cv/releases/latest/download/RyanDeeringCV.pdf) 
-
-#### Need to contact me?
-
-[![](http://img.shields.io/badge/-LinkedIn-5aa5a2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryandeering)
-[![](http://img.shields.io/badge/-Email-5aa5a2?logo=gmail&logoColor=white)](mailto:ryandeering1@gmail.com)
-
-[Fancy buying me a beverage?](https://ko-fi.com/ryandeering)
-
-<p align="center">
-    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" src="https://github.com/ryandeering/ryandeering/blob/main/metrics.left.svg" /></a>
-    <a target="_blank" href="https://github.com/lowlighter/metrics.git"><img width="49%" img align='top' src="https://github.com/ryandeering/ryandeering/blob/main/metrics.right.svg" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,docker,linux,azure,cpp,java" />
 </p>
 
+#### [Curriculum Vitae](https://docs.google.com/viewerng/viewer?url=https://github.com/ryandeering/cv/releases/latest/download/RyanDeeringCV.pdf)
 
-<!--
-**ryandeering/ryandeering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Get in touch
 
-Here are some ideas to get you started:
+- Website: **https://ryandeering.ie**  
+- LinkedIn: **https://linkedin.com/in/ryandeering**  
+- Email: **ryandeering1@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Like my work?
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ryandeering)
+
+
